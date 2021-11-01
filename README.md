@@ -8,7 +8,6 @@
 - Prof. Maurício Loureiro (Escola de Música da UFMG)
 - Profa. Thaïs Cristófaro-Silva (Faculdade de Letras da UFMG)
 - Prof. Hani Camille Yehia (Depto. Eletrônica da UFMG)
-- 
 
 # EICEFALA 2009
 
